@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FxPingo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fx_pingo">PingOooooooo!</string>
+
+    <string-array name="friend_list">
+        <item>Truong</item>
+        <item>Hieu</item>
+        <item>Hanh</item>
+        <item>Quang</item>
+        <item>aThien</item>
+        <item>Nguyen Hai</item>
+        <item>Huynh Hai</item>
+        <item>Other</item>
+    </string-array>
+</resources>
